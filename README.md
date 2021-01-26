@@ -1,4 +1,4 @@
-# Cat-Dog-Image-Predictor
+# Cat or Dog-Predictor
 Image Recognition using Convolutional Neural Networks(CNN)
 
 
